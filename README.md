@@ -1,3 +1,2 @@
-# Project-1
-BrickView: Real Estate Analytics Platform
+# Project-1 : BrickView: Real Estate Analytics Platform
 This project is developed using **Python, Streamlit, and MySQL** to analyze and visualize real estate market data. It helps users explore property listings, pricing trends, sales performance, and agent insights through interactive dashboards, SQL queries, filtering options, and CRUD operations. The platform provides meaningful insights that support better decision-making for buyers, sellers, investors, and real estate agents.
